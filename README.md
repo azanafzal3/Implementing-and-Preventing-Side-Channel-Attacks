@@ -102,9 +102,6 @@ The demonstrations generate visualizations that show:
 2. **Power Analysis**: Power consumption traces and their correlation with key values
 3. **Countermeasure Effectiveness**: Comparison of vulnerable vs protected implementations
 
-Example visualization:
-
-![Timing Attack Visualization](docs/figures/timing_attack_visualization.png)
 
 ## Technical Details
 
