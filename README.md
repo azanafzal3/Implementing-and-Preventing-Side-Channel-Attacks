@@ -123,6 +123,17 @@ The project includes a deliberately vulnerable AES implementation with:
 
 This repository is part of an Information Security course project focused on advanced cryptographic implementation security.
 
+---
+
+## 👥 Team & Course Info
+
+- **Course**: Information Security
+- **Project**: Implementing side channel attacks (Project 1)
+- **Group Size**: 3 Members
+- **Instructor Requirement**: Viva mandatory for marks
+
+---
+
 ## License
 
 This project is provided for educational purposes only. Use responsibly.
